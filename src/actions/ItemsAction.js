@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const baseUrl =
-  'https://to-do-list-rest-api.herokuapp.com/api/1af41d63-43ea-4693-b0d3-38b1f5753512';
+  'https://yyaddaden.pythonanywhere.com/api/823a32e2-4a1f-4ff3-b28e-5a9f2c600a63';
 
 export const getItems = () => {
   return dispatch => {
